@@ -1,4 +1,4 @@
-from mod.py import number_guessing_game
+from mod import number_guessing_game
 import math
 
 
